@@ -1,4 +1,6 @@
-# Start Omnibox
+> [!WARNING]
+> This project is no longer maintained or has been moved to [github.com/InledGroup](https://github.com/InledGroup) or [github.com/Inled-Pulsar-OS](https://github.com/Inled-Pulsar-OS)
+ Start Omnibox
 Escoja el motor de búsqueda sin tener que navegar a el: simplemente desde Start Omnibox, junto a la barra de búsqueda
 ## Instalación
 1. Descargue Start Omnibox
